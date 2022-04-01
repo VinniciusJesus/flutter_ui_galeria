@@ -1,3 +1,6 @@
+# Minha Galeria
+O FLUTTER💙 é conhecido por suas belas telas. Tendo isso em mente, incluo o desenvolvimento de layouts (além da lógica) em meus estudos. Estarei acrescentando neste repositório a demonstração destes estudos 🙃😛
+
 #
 ### Navegue por aqui ⛵️
 
